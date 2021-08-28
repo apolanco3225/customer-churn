@@ -1,2 +1,2 @@
-# customer-churn
-Predict Customer Churn
+# Predict Customer Churn
+### First Projec Machine Learning Engineer DevOps Nanodegree
