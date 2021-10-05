@@ -11,3 +11,25 @@ This project contains:
 * churn_library.py: Modular and reproducible.
 * churn_script_logging_and_tests.py: Making sure tests are added in the model pipeline.
 
+## Running Files
+Please create an environment with ***Python 3.8***, then proceed to install all the requirements using 
+```
+pip install -r requirements.txt
+```
+Once all the depndencies are installed you need to exectute in your terminal:
+```
+python churn_library.py
+```
+This command will exectute the whole machine learning pipeline, it will generate artifacts for:
+- The EDA in the image/eda folder with information of the Churn dataframe.
+- Trained Models of Logistic Regression and Random Fores in the models folder.
+- The Testing in the image/results folder with information of classification report, AUC for Random Forest and Logistic Regression classifiers, shap values for Random Forest and Feature Importance. 
+
+Test that the pipeline is working correctly by executing:
+```
+python churn_script_logging_and_tests.py 
+```
+This command will generate the following artifact:
+- Log file with the results of all the tests applied in the log folder.
+```
+```
