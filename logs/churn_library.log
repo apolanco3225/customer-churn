@@ -1,0 +1,33 @@
+root - INFO - SUCCESS: Testing import_data.
+root - INFO - SUCCESS: Dimensions of dataframe are bigger than 0.
+root - INFO - SUCCESS: EDA generated distplot_total_trans_ct.png image.
+root - INFO - SUCCESS: EDA generated maritalStatus_count.png image.
+root - INFO - SUCCESS: EDA generated customer_age.png image.
+root - INFO - SUCCESS: EDA generated churn_hist.png image.
+root - INFO - SUCCESS: EDA generated corr_heatmap.png image.
+root - INFO - SUCCESS: encoder generated Gender_Churn column.
+root - INFO - SUCCESS: encoder generated Education_Level_Churn column.
+root - INFO - SUCCESS: encoder generated Marital_Status_Churn column.
+root - INFO - SUCCESS: encoder generated Income_Category_Churn column.
+root - INFO - SUCCESS: encoder generated Card_Category_Churn column.
+root - INFO - SUCCESS: feature engineering generated Customer_Age column.
+root - INFO - SUCCESS: feature engineering generated Dependent_count column.
+root - INFO - SUCCESS: feature engineering generated Months_on_book column.
+root - INFO - SUCCESS: feature engineering generated Total_Relationship_Count column.
+root - INFO - SUCCESS: feature engineering generated Months_Inactive_12_mon column.
+root - INFO - SUCCESS: feature engineering generated Contacts_Count_12_mon column.
+root - INFO - SUCCESS: feature engineering generated Credit_Limit column.
+root - INFO - SUCCESS: feature engineering generated Total_Revolving_Bal column.
+root - INFO - SUCCESS: feature engineering generated Avg_Open_To_Buy column.
+root - INFO - SUCCESS: feature engineering generated Total_Amt_Chng_Q4_Q1 column.
+root - INFO - SUCCESS: feature engineering generated Total_Trans_Amt column.
+root - INFO - SUCCESS: feature engineering generated Total_Trans_Ct column.
+root - INFO - SUCCESS: feature engineering generated Total_Ct_Chng_Q4_Q1 column.
+root - INFO - SUCCESS: feature engineering generated Avg_Utilization_Ratio column.
+root - INFO - SUCCESS: feature engineering generated Gender_Churn column.
+root - INFO - SUCCESS: feature engineering generated Education_Level_Churn column.
+root - INFO - SUCCESS: feature engineering generated Marital_Status_Churn column.
+root - INFO - SUCCESS: feature engineering generated Income_Category_Churn column.
+root - INFO - SUCCESS: feature engineering generated Card_Category_Churn column.
+root - INFO - SUCCESS: Train models generated logistic_model.pkl model.
+root - INFO - SUCCESS: Train models generated rfc_model.pkl model.
